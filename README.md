@@ -39,7 +39,7 @@ An interactive, web-based gaming platform.
 * **Tech:** Python, Web Frameworks, PythonAnywhere.
 * **Impact:** Showcases seamless backend logic handling and web deployment capabilities. 
 
-#### 💼 Unizoy - Full-Stack Job Board
+#### 💼 [Unizoy - Full-Stack Job Board](https://unizoy-job-board-b8qs.vercel.app/)
 A comprehensive, full-stack platform connecting job seekers with opportunities.
 * **Tech:** Next.js, Node.js, MongoDB Atlas, Vercel, Render.
 * **Impact:** Designed a scalable database architecture and deployed a fully responsive, production-ready MERN application.
