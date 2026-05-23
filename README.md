@@ -232,12 +232,12 @@ Interactive web-based gaming platform with intelligent backend logic.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6739B7&icon_color=6739B7&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=D0027&theme=tokyonight&hide_border=true&background=0D1117&ring=6739B7&fire=FF4B4B&currStreakLabel=6739B7&sideLabels=6739B7&dates=888888" height="165"/>
+<img src="https://streak-stats.demolab.com?user=D0027&theme=tokyonight&hide_border=true&background=0D1117&ring=6739B7&fire=FF4B4B&currStreakLabel=6739B7&sideLabels=6739B7&dates=888888" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6739B7&text_color=ffffff&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6739B7&text_color=ffffff&langs_count=8" height="150"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=D0027&theme=tokyonight&no-frame=true&margin-w=10&column=6)](https://github.com/D0027)
 
 <br/><br/>
 
