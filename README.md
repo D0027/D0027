@@ -19,21 +19,15 @@
 
 <img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Full--Time%20·%20Remote%20·%20Contract%20·%20Part--Time%20·%20Internship%20·%20Freelance-success?style=for-the-badge&labelColor=1a1a2e"/>
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,50:8A4FFF,100:FF4B4B&height=5&section=header"/>
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
-
 ## 🧠 About Me
+
+<div align="center">
 
 ```python
 class DeepakYadav:
@@ -67,18 +61,7 @@ class DeepakYadav:
         print("Thanks for visiting! Let's build something amazing 🚀")
 ```
 
-</td>
-<td width="35%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/mishrasunny754/mishrasunny754/master/gif3.gif" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=D0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&icon_color=FF4B4B&text_color=ffffff&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,50:8A4FFF,100:FF4B4B&height=3&section=header"/>
 
@@ -88,8 +71,10 @@ class DeepakYadav:
 
 ### 🤖 AI / ML / Data
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn&theme=dark" height="55"/>&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -97,19 +82,28 @@ class DeepakYadav:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,flask&theme=dark" height="55"/>&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Database & DevOps
 
-<img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,githubactions,vercel&theme=dark" height="55"/>&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
@@ -118,14 +112,40 @@ class DeepakYadav:
 
 <div align="center">
 
-**⚡ Core Proficiency**
+### ⚡ Core Proficiency
 
-`Machine Learning`   ████████████████████░░  90%
-`Computer Vision`    ██████████████████░░░░  82%
-`NLP`                █████████████████░░░░░  78%
-`Full-Stack Dev`     ███████████████████░░░  85%
-`Data Analysis`      ████████████████████░░  92%
-`MLOps`              ███████████████░░░░░░░  70%
+<table>
+<tr><td width="180"><b>Machine Learning</b></td><td>
+
+![](https://progress-bar.dev/90/?width=400&color=8A4FFF)
+
+</td></tr>
+<tr><td><b>Computer Vision</b></td><td>
+
+![](https://progress-bar.dev/82/?width=400&color=8A4FFF)
+
+</td></tr>
+<tr><td><b>NLP</b></td><td>
+
+![](https://progress-bar.dev/78/?width=400&color=8A4FFF)
+
+</td></tr>
+<tr><td><b>Full-Stack Dev</b></td><td>
+
+![](https://progress-bar.dev/85/?width=400&color=8A4FFF)
+
+</td></tr>
+<tr><td><b>Data Analysis</b></td><td>
+
+![](https://progress-bar.dev/92/?width=400&color=8A4FFF)
+
+</td></tr>
+<tr><td><b>MLOps</b></td><td>
+
+![](https://progress-bar.dev/70/?width=400&color=8A4FFF)
+
+</td></tr>
+</table>
 
 </div>
 
@@ -255,16 +275,16 @@ Interactive web-based gaming platform with intelligent backend logic.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=D0027&theme=tokyonight&hide_border=true&background=0D1117&ring=8A4FFF&fire=FF4B4B&currStreakLabel=8A4FFF&sideLabels=8A4FFF&dates=888888" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=D0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&icon_color=FF4B4B&text_color=ffffff&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&text_color=ffffff&langs_count=8&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D0027&bg_color=0D1117&color=8A4FFF&line=8A4FFF&point=FF4B4B&area=true&hide_border=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=D0027&theme=tokyonight&hide_border=true&background=0D1117&ring=8A4FFF&fire=FF4B4B&currStreakLabel=8A4FFF&sideLabels=8A4FFF&dates=888888" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=D0027&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D0027&bg_color=0D1117&color=8A4FFF&line=8A4FFF&point=FF4B4B&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -294,7 +314,7 @@ Interactive web-based gaming platform with intelligent backend logic.
 <div align="center">
 
 | | |
-|---|---|
+|:---:|---|
 | 🔭 | Building production-grade AI/ML systems |
 | 🌱 | Exploring **LLMs, RAG pipelines & Agentic AI** |
 | 👯 | Open to collaborations on ML + Full-Stack projects |
