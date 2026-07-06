@@ -233,11 +233,11 @@ Interactive web-based gaming platform with intelligent backend logic.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=D0027&theme=tokyonight&hide_border=true&background=0D1117&ring=6739B7&fire=FF4B4B&currStreakLabel=6739B7&sideLabels=6739B7&dates=888888" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6739B7&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6739B7&text_color=ffffff&langs_count=8&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=D0027&theme=tokyonight&no-frame=true&margin-w=10&column=6)](https://github.com/D0027)
+[![trophy](https://github-profile-trophy.vercel.app/?username=D0027&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6)](https://github.com/D0027)
 
 <br/><br/>
 
