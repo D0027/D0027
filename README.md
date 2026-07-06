@@ -1,27 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6739B7&height=200&section=header&text=Deepak%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C3%97%20Full-Stack%20Developer%20%C3%97%20MCA%20Graduate&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6739B7,100:FF4B4B&height=220&section=header&text=Deepak%20Yadav&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%C3%97%20Full-Stack%20Developer%20%C3%97%20MCA%20Graduate&descAlignY=55&descAlign=50&descSize=18"/>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6739B7&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+Systems;👁️+Computer+Vision+%7C+NLP+%7C+Deep+Learning;🌐+Full-Stack+%7C+MERN+%7C+FastAPI+%7C+Streamlit;🚀+Turning+Data+into+Decisions;💡+Open+to+Work+—+Full-Time+%7C+Remote+%7C+Freelance)](https://git.io/typing-svg)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepakyadav027-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav027/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-6739B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://d0027.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Gmail-dy0169489-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dy0169489@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=D0027&style=for-the-badge&color=6739B7&label=PROFILE+VIEWS)](https://github.com/D0027)
+<p>
+<a href="https://www.linkedin.com/in/deepakyadav027/"><img src="https://img.shields.io/badge/LinkedIn-deepakyadav027-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://d0027.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6739B7?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:dy0169489@gmail.com"><img src="https://img.shields.io/badge/Gmail-dy0169489-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/D0027"><img src="https://komarev.com/ghpvc/?username=D0027&style=for-the-badge&color=6739B7&label=PROFILE+VIEWS"/></a>
+</p>
 
 <br/>
 
-### 🟢 `OPEN TO WORK` — Full-Time · Remote · Contract · Part-Time · Internship · Freelance
+<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Full--Time%20·%20Remote%20·%20Contract%20·%20Part--Time%20·%20Internship%20·%20Freelance-success?style=for-the-badge&labelColor=1a1a2e"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,100:FF4B4B&height=4&section=header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6739B7&height=3&section=header" width="100%"/>
+<br/>
 
 ## 🧠 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/mishrasunny754/mishrasunny754/master/gif3.gif">
 
 ```python
 class DeepakYadav:
@@ -55,13 +61,15 @@ class DeepakYadav:
         print("Thanks for visiting! Let's build something amazing 🚀")
 ```
 
----
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,100:FF4B4B&height=2&section=header"/>
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**🤖 AI / ML / Data**
+### 🤖 AI / ML / Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -74,7 +82,9 @@ class DeepakYadav:
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-**🌐 Web Development**
+<br/>
+
+### 🌐 Web Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -85,7 +95,9 @@ class DeepakYadav:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**🗄️ Database & DevOps**
+<br/>
+
+### 🗄️ Database & DevOps
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -96,11 +108,15 @@ class DeepakYadav:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,100:FF4B4B&height=2&section=header"/>
 
 ## 🏆 Featured Projects
 
+<div align="center">
+
 > 💡 *Every project below is live and production-deployed — click any demo link!*
+
+</div>
 
 <table>
 <tr>
@@ -118,11 +134,7 @@ End-to-end EDA on India's digital payments ecosystem covering **2018–2024**.
 💰 Data Coverage    → ₹275T+ transaction value
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -139,10 +151,7 @@ Production ML app for smarter property investment decisions using Indian housing
 💹 Analytics      → ROI calculations + growth charts
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 
 </td>
 </tr>
@@ -161,10 +170,7 @@ Advanced computer vision system for automated agricultural diagnostics.
 🎯 Impact         → Real-world crop health management
 ```
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -181,10 +187,7 @@ Production-grade MERN application connecting job seekers with opportunities.
 📱 Design         → Fully responsive UI/UX
 ```
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
 </tr>
@@ -203,8 +206,7 @@ Interactive web-based gaming platform with intelligent backend logic.
 ⚙️ Focus          → Seamless backend + web integration
 ```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
 </td>
 <td width="50%" valign="top">
@@ -220,13 +222,13 @@ Interactive web-based gaming platform with intelligent backend logic.
 ⭐ Star my repos to stay updated!
 ```
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D0027)
+<a href="https://github.com/D0027"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,100:FF4B4B&height=2&section=header"/>
 
 ## 📈 GitHub Stats
 
@@ -237,21 +239,18 @@ Interactive web-based gaming platform with intelligent backend logic.
 
 <br/><br/>
 
-
-<br/><br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=D0027&bg_color=0D1117&color=6739B7&line=6739B7&point=FF4B4B&area=true&hide_border=true" width="95%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,100:FF4B4B&height=2&section=header"/>
 
 ## 💼 Open To Work
 
 <div align="center">
 
 | Type | Status | Preference |
-|------|--------|-----------|
+|:---:|:---:|:---:|
 | 🏢 Full-Time | ✅ Available | AI/ML Engineer · Full-Stack Developer |
 | 🌍 Remote | ✅ Available | Anywhere in the world |
 | 📝 Contract | ✅ Available | Short & long term |
@@ -263,7 +262,7 @@ Interactive web-based gaming platform with intelligent backend logic.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,100:FF4B4B&height=2&section=header"/>
 
 ## 🎯 Currently
 
@@ -273,14 +272,14 @@ Interactive web-based gaming platform with intelligent backend logic.
 - 💬 Ask me anything about **Python · ML · Computer Vision · MERN**
 - ⚡ Fun fact: I turn raw data into deployed products that solve real problems
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6739B7&height=120&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6739B7,100:FF4B4B&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakyadav027/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-6739B7?style=for-the-badge&logo=githubpages&logoColor=white)](https://d0027.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dy0169489@gmail.com)
+<a href="https://www.linkedin.com/in/deepakyadav027/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://d0027.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Visit_Portfolio-6739B7?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:dy0169489@gmail.com"><img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
