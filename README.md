@@ -27,8 +27,6 @@
 
 ## 🧠 About Me
 
-<div align="center">
-
 ```python
 class DeepakYadav:
 
@@ -60,8 +58,6 @@ class DeepakYadav:
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing 🚀")
 ```
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6739B7,50:8A4FFF,100:FF4B4B&height=3&section=header"/>
 
@@ -114,38 +110,14 @@ class DeepakYadav:
 
 ### ⚡ Core Proficiency
 
-<table>
-<tr><td width="180"><b>Machine Learning</b></td><td>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-90%25-8A4FFF?style=for-the-badge&labelColor=1a1a2e)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-92%25-8A4FFF?style=for-the-badge&labelColor=1a1a2e)
 
-![](https://progress-bar.dev/90/?width=400&color=8A4FFF)
+![Full--Stack Dev](https://img.shields.io/badge/Full--Stack%20Dev-85%25-8A4FFF?style=for-the-badge&labelColor=1a1a2e)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-82%25-8A4FFF?style=for-the-badge&labelColor=1a1a2e)
 
-</td></tr>
-<tr><td><b>Computer Vision</b></td><td>
-
-![](https://progress-bar.dev/82/?width=400&color=8A4FFF)
-
-</td></tr>
-<tr><td><b>NLP</b></td><td>
-
-![](https://progress-bar.dev/78/?width=400&color=8A4FFF)
-
-</td></tr>
-<tr><td><b>Full-Stack Dev</b></td><td>
-
-![](https://progress-bar.dev/85/?width=400&color=8A4FFF)
-
-</td></tr>
-<tr><td><b>Data Analysis</b></td><td>
-
-![](https://progress-bar.dev/92/?width=400&color=8A4FFF)
-
-</td></tr>
-<tr><td><b>MLOps</b></td><td>
-
-![](https://progress-bar.dev/70/?width=400&color=8A4FFF)
-
-</td></tr>
-</table>
+![NLP](https://img.shields.io/badge/NLP-78%25-8A4FFF?style=for-the-badge&labelColor=1a1a2e)
+![MLOps](https://img.shields.io/badge/MLOps-70%25-8A4FFF?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -276,7 +248,7 @@ Interactive web-based gaming platform with intelligent backend logic.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=D0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&icon_color=FF4B4B&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&text_color=ffffff&langs_count=8&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&text_color=ffffff&langs_count=6&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
