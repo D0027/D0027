@@ -247,8 +247,6 @@ Interactive web-based gaming platform with intelligent backend logic.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=D0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&icon_color=FF4B4B&text_color=ffffff&count_private=true" height="165"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=D0027&theme=tokyonight&hide_border=true&background=0D1117&ring=8A4FFF&fire=FF4B4B&currStreakLabel=8A4FFF&sideLabels=8A4FFF&dates=888888" width="70%"/>
