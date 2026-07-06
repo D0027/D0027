@@ -248,7 +248,6 @@ Interactive web-based gaming platform with intelligent backend logic.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=D0027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&icon_color=FF4B4B&text_color=ffffff&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D0027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A4FFF&text_color=ffffff&langs_count=6&cache_seconds=1800" height="165"/>
 
 <br/><br/>
 
